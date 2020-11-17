@@ -1,0 +1,16 @@
+#context-setDesktopBackground,
+#context_sendTabToDevice_separator,
+#context_sendTabToDevice,
+#context-sendimage,
+#context-sendpagetodevice,
+#context-pocket,
+#context-viewinfo,
+#context-viewimageinfo,
+#context-bookmarkpage,
+#context-openlinkinusercontext-menu,
+#context-bookmarklink,
+#context-copy,
+#context-sendlinktodevice,
+#context-savelinktopocket {
+    display: none !important;
+}

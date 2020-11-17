@@ -1,0 +1,20 @@
+/* Based on Prismatic Night */
+/* https://github.com/dbuxy218/Prismatic-Night */
+
+/* Customized By Berkin AKKAYA */
+
+@import url('patches/window_control_placeholder_support.css');
+@import url('patches/linux_gtk_window_control_patch.css');
+@import url('patches/tabs-custom.css');
+@import url('patches/nav-bar-custom.css');
+@import url('patches/tabs-below-nav-bar.css');
+@import url('patches/transition-color.css');
+@import url('patches/tabs-below-content.css');
+@import url('patches/ctrl+l-access.css');
+@import url('patches/context-menu.css');
+@import url('patches/sidebar.css');
+
+#back-button,
+#forward-button {
+	display: none !important;
+}

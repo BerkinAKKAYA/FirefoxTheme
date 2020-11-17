@@ -1,0 +1,44 @@
+#navigator-toolbox::after {
+    display: none !important;
+    border-bottom: 0px !important;
+}
+
+#nav-bar,
+#TabsToolbar {
+    border: none !important;
+    background-color: #000 !important;
+}
+
+#nav-bar-customization-target {
+    background-color: #000 !important;
+}
+
+#navigator-toolbox {
+    margin-top: 0px;
+    padding-top: 0px !important;
+    border: none !important;
+}
+
+#navigator-toolbox {
+    --tabs-border-color: transparent !important;
+}
+
+.toolbarbutton-1 {
+    fill: #a3afc1 !important;
+    background-color: #000 !important;
+}
+
+#urlbar-input-container {
+    border: none !important;
+}
+
+#urlbar[open] > #urlbar-background {
+    background: #000 !important;
+    border-color: transparent !important;
+}
+
+#urlbar-background {
+    background-color: #000 !important;
+    box-shadow: none !important;
+    border-color: transparent !important;
+}
